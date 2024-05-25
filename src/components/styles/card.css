@@ -1,0 +1,18 @@
+.card {
+    background-color: black;
+    width: 280px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+.card__header {
+    background-color: gray;
+    padding: 15px;
+    border-bottom: 2px solid orange;
+    border-radius: 8px 8px 0 0;
+}
+.card__title {
+    padding: 15px;
+}
+.card__text {
+    padding: 0 15px 25px;
+}
